@@ -1,0 +1,28 @@
+/* header.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f9;
+  }
+  
+  .divHeader {
+    width: 100vw;
+    height: 10vh; /* Altura do cabeçalho */
+    background-color: #1890ff; /* Cor de fundo azul do cabeçalho */
+    display: flex;
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra suave para o cabeçalho */
+  }
+  
+  .controleEstoque {
+    color: white; /* Cor do texto do título */
+    font-size: 2rem; /* Tamanho da fonte */
+    font-weight: bold; /* Peso da fonte */
+    text-transform: uppercase; /* Transforma o texto em maiúsculas */
+    letter-spacing: 2px; /* Espaçamento entre as letras */
+    text-align: center;
+  }
+  

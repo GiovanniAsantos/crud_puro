@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.divFooter{
+    width: 100vw;
+    background-color: black;
+    height: 10vh;
+    text-align: center;
+}
+
+.textoFooter{
+    color: white;
+}

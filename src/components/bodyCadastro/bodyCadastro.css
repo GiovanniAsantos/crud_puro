@@ -1,0 +1,45 @@
+.divCadastro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .tituloCadastro {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .formCadastro {
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ant-btn {
+    border-radius: 4px;
+  }
+  
+  .ant-btn-primary {
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+  }
+  
+  .ant-btn-primary:hover {
+    background-color: #45a049;
+    border-color: #45a049;
+  }
+  
+  .ant-input {
+    border-radius: 4px;
+  }
+  
+  .ant-form-item-label {
+    font-weight: bold;
+  }
+  
